@@ -1,0 +1,14 @@
+C:\Users\galve\OneDrive\Área de Trabalho\programação\BackendC#\ClientControlSystem\bin\Debug\net8.0\ClientControlSystem.exe
+C:\Users\galve\OneDrive\Área de Trabalho\programação\BackendC#\ClientControlSystem\bin\Debug\net8.0\ClientControlSystem.deps.json
+C:\Users\galve\OneDrive\Área de Trabalho\programação\BackendC#\ClientControlSystem\bin\Debug\net8.0\ClientControlSystem.runtimeconfig.json
+C:\Users\galve\OneDrive\Área de Trabalho\programação\BackendC#\ClientControlSystem\bin\Debug\net8.0\ClientControlSystem.dll
+C:\Users\galve\OneDrive\Área de Trabalho\programação\BackendC#\ClientControlSystem\bin\Debug\net8.0\ClientControlSystem.pdb
+C:\Users\galve\OneDrive\Área de Trabalho\programação\BackendC#\ClientControlSystem\obj\Debug\net8.0\ClientControlSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galve\OneDrive\Área de Trabalho\programação\BackendC#\ClientControlSystem\obj\Debug\net8.0\ClientControlSystem.AssemblyInfoInputs.cache
+C:\Users\galve\OneDrive\Área de Trabalho\programação\BackendC#\ClientControlSystem\obj\Debug\net8.0\ClientControlSystem.AssemblyInfo.cs
+C:\Users\galve\OneDrive\Área de Trabalho\programação\BackendC#\ClientControlSystem\obj\Debug\net8.0\ClientControlSystem.csproj.CoreCompileInputs.cache
+C:\Users\galve\OneDrive\Área de Trabalho\programação\BackendC#\ClientControlSystem\obj\Debug\net8.0\ClientControlSystem.dll
+C:\Users\galve\OneDrive\Área de Trabalho\programação\BackendC#\ClientControlSystem\obj\Debug\net8.0\refint\ClientControlSystem.dll
+C:\Users\galve\OneDrive\Área de Trabalho\programação\BackendC#\ClientControlSystem\obj\Debug\net8.0\ClientControlSystem.pdb
+C:\Users\galve\OneDrive\Área de Trabalho\programação\BackendC#\ClientControlSystem\obj\Debug\net8.0\ClientControlSystem.genruntimeconfig.cache
+C:\Users\galve\OneDrive\Área de Trabalho\programação\BackendC#\ClientControlSystem\obj\Debug\net8.0\ref\ClientControlSystem.dll
